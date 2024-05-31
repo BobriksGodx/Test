@@ -17,7 +17,7 @@ import (
 // Как видите, никаких привязок к внешним сервисам нет - полный карт-бланш на модификацию кода.
 
 // A Ttype represents a meaninglessness of our life
-
+// жизнь прекрасна
 type Ttype struct {
 	id         int
 	cT         string // время создания
